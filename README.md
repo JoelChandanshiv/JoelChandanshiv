@@ -92,15 +92,6 @@ Proven impact through real-world **AI** and **IoT** deployments.
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
